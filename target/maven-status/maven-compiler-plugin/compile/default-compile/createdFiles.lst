@@ -1,0 +1,5 @@
+com\ejemplo\microservicioscrud\repository\EstudianteRepository.class
+com\ejemplo\microservicioscrud\service\EstudianteService.class
+com\ejemplo\microservicioscrud\controller\EstudianteController.class
+com\ejemplo\microservicioscrud\MicroserviciosCrudApplication.class
+com\ejemplo\microservicioscrud\model\Estudiante.class
